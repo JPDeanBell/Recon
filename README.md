@@ -9,5 +9,8 @@ This project implements a high-performance core for a critical financial operati
 
 ## Build & Installation
 ### 1. Clone the Repository
-git clone []
-cd Recon 
+git clone https://github.com/JPDeanBell/Recon
+### 2. Install Python Dependencies
+pip install -r requirements.txt
+### 3. Build and Install the C++ Module
+pip install .
